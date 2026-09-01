@@ -24,11 +24,11 @@
     "site": "VERIFY_ME"
   },
   {
-    "name": "Boeing",
-    "ats": "workday",
-    "tenant": "VERIFY_ME",
-    "shard": "wd1",
-    "site": "VERIFY_ME"
+  "name": "Boeing",
+  "ats": "talentbrew",
+  "base_url": "https://jobs.boeing.com",
+  "org_id": "185",
+  "keywords": "intern"
   },
   {
     "name": "Lockheed Martin",
