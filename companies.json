@@ -1,0 +1,96 @@
+[
+  {
+    "name": "SpaceX",
+    "ats": "greenhouse",
+    "slug": "spacex"
+  },
+  {
+    "name": "Rocket Lab",
+    "ats": "greenhouse",
+    "slug": "rocketlab"
+  },
+  {
+    "name": "Ford",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "General Motors",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "Boeing",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "Lockheed Martin",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "Northrop Grumman",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "General Dynamics",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "General Electric",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "Honda",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "Toyota",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "Blue Origin",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "ULA",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  },
+  {
+    "name": "Amazon",
+    "ats": "workday",
+    "tenant": "VERIFY_ME",
+    "shard": "wd1",
+    "site": "VERIFY_ME"
+  }
+]
