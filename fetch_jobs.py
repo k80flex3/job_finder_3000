@@ -10,6 +10,8 @@ Run manually with:  python fetch_jobs.py
 Runs automatically via .github/workflows/check-jobs.yml on a schedule.
 """
 
+import html
+import re
 import json
 import os
 import sys
@@ -22,6 +24,17 @@ JOBS_FILE = Path("docs/jobs.json")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
 HEADERS = {"User-Agent": "FSAE-Job-Tracker/1.0"}
+
+# Only keep postings whose title looks like an internship/co-op/early-career role.
+INTERNSHIP_KEYWORDS = [
+    "intern", "internship", "co-op", "coop", "college", "university",
+    "student", "early career", "new grad", "graduate program",
+]
+
+
+def is_internship(title):
+    title_lower = title.lower()
+    return any(kw in title_lower for kw in INTERNSHIP_KEYWORDS)
 
 
 def fetch_greenhouse(company):
@@ -90,9 +103,64 @@ def fetch_workday(company):
     return jobs
 
 
+def fetch_talentbrew(company):
+    """
+    TalentBrew search API (used by Boeing and others). Returns JSON with a
+    "results" key containing an HTML fragment of job listings — we regex
+    out the title/link/location/date rather than parsing full HTML, since
+    the structure is simple and consistent.
+    """
+    base_url = company["base_url"].rstrip("/")
+    org_id = company["org_id"]
+    keywords = company.get("keywords", "intern")
+
+    job_pattern = re.compile(
+        r'<a class="search-results__job-link" href="([^"]+)" data-job-id="(\d+)">'
+        r'<span class="search-results__job-title">(.*?)</span></a>\s*'
+        r'<span class="search-results__job-info location">([^<]*)</span>',
+        re.DOTALL,
+    )
+    total_pages_pattern = re.compile(r'data-total-pages="(\d+)"')
+
+    jobs = []
+    page = 1
+    total_pages = 1
+
+    while page <= total_pages:
+        params = {
+            "Keywords": keywords,
+            "OrganizationIds": org_id,
+            "RecordsPerPage": 15,
+            "CurrentPage": page,
+        }
+        resp = requests.get(f"{base_url}/search-jobs/results", params=params, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+        data = resp.json()
+        results_html = data.get("results", "")
+
+        if page == 1:
+            match = total_pages_pattern.search(results_html)
+            if match:
+                total_pages = int(match.group(1))
+
+        for href, job_id, title, location in job_pattern.findall(results_html):
+            jobs.append({
+                "id": f"talentbrew:{org_id}:{job_id}",
+                "company": company["name"],
+                "title": html.unescape(title).strip(),
+                "location": html.unescape(location).strip(),
+                "url": f"{base_url}{href}",
+            })
+
+        page += 1
+
+    return jobs
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "workday": fetch_workday,
+    "talentbrew": fetch_talentbrew,
 }
 
 
@@ -147,7 +215,8 @@ def main():
             print(f"  [error] {company['name']}: {e}")
             continue
 
-        print(f"  found {len(jobs)} postings")
+        jobs = [j for j in jobs if is_internship(j["title"])]
+        print(f"  found {len(jobs)} internship/co-op postings")
         all_jobs.extend(jobs)
 
         for job in jobs:
