@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>FSAE Job Tracker</title>
+<style>
+  :root {
+    --bg: #0d0f10;
+    --panel: #16191b;
+    --line: #2a2e30;
+    --text: #e8e6e1;
+    --text-dim: #8b9195;
+    --accent: #ff3b30;
+    --accent-dim: #7a1f1a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  header {
+    border-bottom: 2px solid var(--accent);
+    padding: 28px 24px 20px;
+  }
+  header .kicker {
+    font-family: "IBM Plex Mono", "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+  }
+  header h1 {
+    margin: 6px 0 4px;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  header p {
+    margin: 0;
+    color: var(--text-dim);
+    font-size: 14px;
+    max-width: 60ch;
+  }
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 18px 24px;
+    border-bottom: 1px solid var(--line);
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 5;
+  }
+  .controls input, .controls select {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    color: var(--text);
+    padding: 9px 12px;
+    border-radius: 3px;
+    font-size: 14px;
+    font-family: inherit;
+  }
+  .controls input { flex: 1; min-width: 180px; }
+  #count {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 13px;
+    color: var(--text-dim);
+    padding: 12px 24px 0;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 8px;
+  }
+  thead th {
+    text-align: left;
+    font-size: 12px;
+    color: var(--text-dim);
+    font-weight: 600;
+    padding: 10px 24px;
+    border-bottom: 1px solid var(--line);
+    position: sticky;
+    top: 61px;
+    background: var(--bg);
+  }
+  tbody tr {
+    border-bottom: 1px solid var(--line);
+    transition: background 0.1s ease;
+  }
+  tbody tr:hover { background: var(--panel); }
+  tbody td {
+    padding: 14px 24px;
+    font-size: 14px;
+    vertical-align: top;
+  }
+  td.title a {
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  td.title a:hover { color: var(--accent); }
+  td.company {
+    color: var(--text-dim);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12.5px;
+    white-space: nowrap;
+  }
+  td.location {
+    color: var(--text-dim);
+    font-size: 13px;
+    white-space: nowrap;
+  }
+  #empty {
+    padding: 60px 24px;
+    text-align: center;
+    color: var(--text-dim);
+  }
+  footer {
+    padding: 24px;
+    color: var(--text-dim);
+    font-size: 12px;
+    font-family: "IBM Plex Mono", monospace;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="kicker">FSAE &middot; EARLY CAREER TRACKER</div>
+  <h1>Open roles board</h1>
+  <p>Live-ish listings from motorsports, space, defense, and auto companies. Refreshed automatically every few hours.</p>
+</header>
+
+<div class="controls">
+  <input id="search" type="text" placeholder="Search title or keyword..." />
+  <select id="companyFilter"><option value="">All companies</option></select>
+  <input id="locationFilter" type="text" placeholder="Filter by location..." />
+</div>
+
+<div id="count"></div>
+
+<table id="jobsTable">
+  <thead>
+    <tr>
+      <th style="width:45%">Role</th>
+      <th style="width:25%">Company</th>
+      <th style="width:30%">Location</th>
+    </tr>
+  </thead>
+  <tbody id="jobsBody"></tbody>
+</table>
+
+<div id="empty" style="display:none;">No roles match those filters right now.</div>
+
+<footer>Data pulled from public ATS boards. Not affiliated with the listed employers.</footer>
+
+<script>
+let allJobs = [];
+
+async function loadJobs() {
+  try {
+    const res = await fetch('jobs.json?_=' + Date.now());
+    const data = await res.json();
+    allJobs = data.jobs || [];
+  } catch (e) {
+    allJobs = [];
+  }
+  populateCompanyFilter();
+  render();
+}
+
+function populateCompanyFilter() {
+  const select = document.getElementById('companyFilter');
+  const companies = [...new Set(allJobs.map(j => j.company))].sort();
+  companies.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c;
+    opt.textContent = c;
+    select.appendChild(opt);
+  });
+}
+
+function render() {
+  const searchVal = document.getElementById('search').value.toLowerCase();
+  const companyVal = document.getElementById('companyFilter').value;
+  const locationVal = document.getElementById('locationFilter').value.toLowerCase();
+
+  const filtered = allJobs.filter(j => {
+    const matchesSearch = !searchVal || j.title.toLowerCase().includes(searchVal);
+    const matchesCompany = !companyVal || j.company === companyVal;
+    const matchesLocation = !locationVal || (j.location || '').toLowerCase().includes(locationVal);
+    return matchesSearch && matchesCompany && matchesLocation;
+  });
+
+  document.getElementById('count').textContent = `${filtered.length} of ${allJobs.length} roles`;
+
+  const body = document.getElementById('jobsBody');
+  body.innerHTML = '';
+  document.getElementById('empty').style.display = filtered.length ? 'none' : 'block';
+
+  filtered.forEach(j => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td class="title"><a href="${j.url}" target="_blank" rel="noopener">${j.title}</a></td>
+      <td class="company">${j.company}</td>
+      <td class="location">${j.location || ''}</td>
+    `;
+    body.appendChild(tr);
+  });
+}
+
+['search', 'companyFilter', 'locationFilter'].forEach(id => {
+  document.getElementById(id).addEventListener('input', render);
+});
+
+loadJobs();
+</script>
+
+</body>
+</html>
