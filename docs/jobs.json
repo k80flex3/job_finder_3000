@@ -8,13 +8,6 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8741940002?gh_jid=8741940002"
     },
     {
-      "id": "greenhouse:spacex:8663562002",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer, Internal Systems ",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8663562002?gh_jid=8663562002"
-    },
-    {
       "id": "greenhouse:spacex:8686286002",
       "company": "SpaceX",
       "title": "Full Stack Software Engineer, Internal Systems ",
@@ -27,6 +20,13 @@
       "title": "Full Stack Software Engineer, Internal Systems ",
       "location": "Hawthorne, CA",
       "url": "https://boards.greenhouse.io/spacex/jobs/8681167002?gh_jid=8681167002"
+    },
+    {
+      "id": "greenhouse:spacex:8663562002",
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Internal Systems ",
+      "location": "Bastrop, TX",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8663562002?gh_jid=8663562002"
     },
     {
       "id": "greenhouse:spacex:8647689002",
@@ -43,6 +43,13 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8706964002?gh_jid=8706964002"
     },
     {
+      "id": "greenhouse:spacex:8619984002",
+      "company": "SpaceX",
+      "title": "International Infrastructure Operations Specialist (Starlink)",
+      "location": "Redmond, WA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8619984002?gh_jid=8619984002"
+    },
+    {
       "id": "greenhouse:spacex:8675100002",
       "company": "SpaceX",
       "title": "IT Internal Audit Manager",
@@ -57,18 +64,18 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002"
     },
     {
-      "id": "greenhouse:spacex:8696490002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002"
-    },
-    {
       "id": "greenhouse:spacex:8696469002",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
       "location": "Bastrop, TX",
       "url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002"
+    },
+    {
+      "id": "greenhouse:spacex:8696490002",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+      "location": "Redmond, WA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002"
     },
     {
       "id": "greenhouse:spacex:8483305002",
@@ -85,18 +92,18 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002"
     },
     {
-      "id": "greenhouse:spacex:8696105002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002"
-    },
-    {
       "id": "greenhouse:spacex:8696124002",
       "company": "SpaceX",
       "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
       "location": "Bastrop, TX",
       "url": "https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002"
+    },
+    {
+      "id": "greenhouse:spacex:8696105002",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
+      "location": "Redmond, WA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002"
     },
     {
       "id": "greenhouse:spacex:8578087002",
@@ -176,11 +183,11 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002"
     },
     {
-      "id": "greenhouse:spacex:8703552002",
+      "id": "greenhouse:spacex:8706885002",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Silicon Engineering",
-      "location": "Palo Alto, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002"
+      "location": "Redmond, WA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002"
     },
     {
       "id": "greenhouse:spacex:8706884002",
@@ -190,11 +197,11 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002"
     },
     {
-      "id": "greenhouse:spacex:8706885002",
+      "id": "greenhouse:spacex:8703552002",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Silicon Engineering",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002"
+      "location": "Palo Alto, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002"
     },
     {
       "id": "greenhouse:spacex:8493079002",
@@ -239,11 +246,11 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002"
     },
     {
-      "id": "greenhouse:spacex:8696156002",
+      "id": "greenhouse:spacex:8696158002",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002"
+      "location": "Palo Alto, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002"
     },
     {
       "id": "greenhouse:spacex:8696143002",
@@ -253,11 +260,11 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
     },
     {
-      "id": "greenhouse:spacex:8696158002",
+      "id": "greenhouse:spacex:8696156002",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Palo Alto, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002"
+      "location": "Bastrop, TX",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002"
     },
     {
       "id": "greenhouse:spacex:8729121002",
@@ -309,18 +316,18 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002"
     },
     {
-      "id": "greenhouse:spacex:8696900002",
-      "company": "SpaceX",
-      "title": "Sr. Full Stack Engineer, Internal Systems",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696900002?gh_jid=8696900002"
-    },
-    {
       "id": "greenhouse:spacex:8675900002",
       "company": "SpaceX",
       "title": "Sr. Full Stack Engineer, Internal Systems",
       "location": "Hawthorne, CA",
       "url": "https://boards.greenhouse.io/spacex/jobs/8675900002?gh_jid=8675900002"
+    },
+    {
+      "id": "greenhouse:spacex:8696900002",
+      "company": "SpaceX",
+      "title": "Sr. Full Stack Engineer, Internal Systems",
+      "location": "Bastrop, TX",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696900002?gh_jid=8696900002"
     },
     {
       "id": "greenhouse:spacex:8758274002",
@@ -554,18 +561,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821115003"
     },
     {
-      "id": "greenhouse:rocketlab:7825144003",
-      "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern - Composites",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825144003"
-    },
-    {
       "id": "greenhouse:rocketlab:7882562003",
       "company": "Rocket Lab",
       "title": "Manufacturing Engineering Intern - Composites",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7882562003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7825144003",
+      "company": "Rocket Lab",
+      "title": "Manufacturing Engineering Intern - Composites",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825144003"
     },
     {
       "id": "greenhouse:rocketlab:7820014003",
@@ -596,18 +603,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821134003"
     },
     {
-      "id": "greenhouse:rocketlab:7821122003",
-      "company": "Rocket Lab",
-      "title": "Neutron Mechanical Development Intern",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821122003"
-    },
-    {
       "id": "greenhouse:rocketlab:7821193003",
       "company": "Rocket Lab",
       "title": "Neutron Mechanical Development Intern",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7821122003",
+      "company": "Rocket Lab",
+      "title": "Neutron Mechanical Development Intern",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821122003"
     },
     {
       "id": "greenhouse:rocketlab:7845193003",
