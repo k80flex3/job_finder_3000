@@ -57,18 +57,18 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002"
     },
     {
-      "id": "greenhouse:spacex:8696469002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002"
-    },
-    {
       "id": "greenhouse:spacex:8696490002",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
       "location": "Redmond, WA",
       "url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002"
+    },
+    {
+      "id": "greenhouse:spacex:8696469002",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+      "location": "Bastrop, TX",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002"
     },
     {
       "id": "greenhouse:spacex:8483305002",
@@ -183,18 +183,18 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002"
     },
     {
-      "id": "greenhouse:spacex:8703552002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Silicon Engineering",
-      "location": "Palo Alto, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002"
-    },
-    {
       "id": "greenhouse:spacex:8706884002",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Silicon Engineering",
       "location": "Irvine, CA",
       "url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002"
+    },
+    {
+      "id": "greenhouse:spacex:8703552002",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Silicon Engineering",
+      "location": "Palo Alto, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002"
     },
     {
       "id": "greenhouse:spacex:8493079002",
@@ -232,11 +232,11 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002"
     },
     {
-      "id": "greenhouse:spacex:8696143002",
+      "id": "greenhouse:spacex:8696156002",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
+      "location": "Bastrop, TX",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002"
     },
     {
       "id": "greenhouse:spacex:8696158002",
@@ -246,11 +246,11 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002"
     },
     {
-      "id": "greenhouse:spacex:8696156002",
+      "id": "greenhouse:spacex:8696143002",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002"
+      "location": "Redmond, WA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
     },
     {
       "id": "greenhouse:spacex:8724316002",
@@ -309,18 +309,18 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002"
     },
     {
-      "id": "greenhouse:spacex:8675900002",
-      "company": "SpaceX",
-      "title": "Sr. Full Stack Engineer, Internal Systems",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8675900002?gh_jid=8675900002"
-    },
-    {
       "id": "greenhouse:spacex:8696900002",
       "company": "SpaceX",
       "title": "Sr. Full Stack Engineer, Internal Systems",
       "location": "Bastrop, TX",
       "url": "https://boards.greenhouse.io/spacex/jobs/8696900002?gh_jid=8696900002"
+    },
+    {
+      "id": "greenhouse:spacex:8675900002",
+      "company": "SpaceX",
+      "title": "Sr. Full Stack Engineer, Internal Systems",
+      "location": "Hawthorne, CA",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8675900002?gh_jid=8675900002"
     },
     {
       "id": "greenhouse:spacex:8758274002",
