@@ -1,6 +1,363 @@
 {
   "jobs": [
     {
+      "id": "greenhouse:andurilindustries:4802172007",
+      "company": "Anduril",
+      "title": "2026 Early Career Electrical Engineer",
+      "location": "Costa Mesa, California, United States; Fort Collins, Colorado, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5185089007",
+      "company": "Anduril",
+      "title": "2026 Early Career Flight Test Engineer, Mission Autonomy",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5176254007",
+      "company": "Anduril",
+      "title": "2026 Early Career Manufacturing Engineer",
+      "location": "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:4802167007",
+      "company": "Anduril",
+      "title": "2026 Early Career Mechanical Engineer",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:4802146007",
+      "company": "Anduril",
+      "title": "2026 Early Career Software Engineer",
+      "location": "Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5185888007",
+      "company": "Anduril",
+      "title": "2026 Early Career Test & Evaluation Systems Integrator",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185888007?gh_jid=5185888007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5211102007",
+      "company": "Anduril",
+      "title": "2026 Mechanical Engineering Intern",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5211095007",
+      "company": "Anduril",
+      "title": "2026 Robotics Engineer Intern",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5211077007",
+      "company": "Anduril",
+      "title": "2026 Software Engineering Intern",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5136925007",
+      "company": "Anduril",
+      "title": "2027 Early Career Electrical Engineer",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5228868007",
+      "company": "Anduril",
+      "title": "2027 Early Career Flight Software Engineer",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5136970007",
+      "company": "Anduril",
+      "title": "2027 Early Career Manufacturing Engineer",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5136984007",
+      "company": "Anduril",
+      "title": "2027 Early Career Mechanical Engineer",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5162263007",
+      "company": "Anduril",
+      "title": "2027 Early Career Software Engineer ",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5148101007",
+      "company": "Anduril",
+      "title": "2027 Electrical Engineer Intern",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5153218007",
+      "company": "Anduril",
+      "title": "2027 Manufacturing Engineer Intern",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5153187007",
+      "company": "Anduril",
+      "title": "2027 Mechanical Engineer Intern",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5148079007",
+      "company": "Anduril",
+      "title": "2027 Software Engineer Intern",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5201946007",
+      "company": "Anduril",
+      "title": "Associate Director, International Project Logistics",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201946007?gh_jid=5201946007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5201948007",
+      "company": "Anduril",
+      "title": "Associate Director, International Project Logistics",
+      "location": "Ashville, Ohio, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201948007?gh_jid=5201948007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5220149007",
+      "company": "Anduril",
+      "title": "Associate Director, Strategic Execution - International",
+      "location": "London, England, United Kingdom",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220149007?gh_jid=5220149007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5024425007",
+      "company": "Anduril",
+      "title": "Director, Business Development, Maritime (International Programs)",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5024425007?gh_jid=5024425007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5170127007",
+      "company": "Anduril",
+      "title": "Director, Business Development, Maritime (International Programs)",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170127007?gh_jid=5170127007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5192755007",
+      "company": "Anduril",
+      "title": "Director, Business Development - Mission Autonomy (International)",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5192755007?gh_jid=5192755007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5082586007",
+      "company": "Anduril",
+      "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5082586007?gh_jid=5082586007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5100621007",
+      "company": "Anduril",
+      "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5100621007?gh_jid=5100621007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5199325007",
+      "company": "Anduril",
+      "title": "International Deployment Manager, Middle East",
+      "location": "Irvine, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199325007?gh_jid=5199325007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5181971007",
+      "company": "Anduril",
+      "title": "International Legal Counsel",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5181971007?gh_jid=5181971007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5174562007",
+      "company": "Anduril",
+      "title": "Mission Engineer, Air Dominance & Strike, Early Career",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5170844007",
+      "company": "Anduril",
+      "title": "Naval Architect Co-op - Winter 2027",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170844007?gh_jid=5170844007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5217656007",
+      "company": "Anduril",
+      "title": "Senior International Trade Compliance Engineer",
+      "location": "Costa Mesa, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217656007?gh_jid=5217656007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5217458007",
+      "company": "Anduril",
+      "title": "Senior International Trade Compliance Engineer",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217458007?gh_jid=5217458007"
+    },
+    {
+      "id": "greenhouse:astranis:4704740006",
+      "company": "Astranis",
+      "title": "CAD Engineer Intern (Spring 2027)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704740006"
+    },
+    {
+      "id": "greenhouse:astranis:4704742006",
+      "company": "Astranis",
+      "title": "CAD Engineer Intern (Summer 2027)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704742006"
+    },
+    {
+      "id": "greenhouse:astranis:4704748006",
+      "company": "Astranis",
+      "title": "CAD Engineer Intern (Winter 2027)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704748006"
+    },
+    {
+      "id": "greenhouse:astranis:4681472006",
+      "company": "Astranis",
+      "title": "Electrical Reliability Intern (Fall 2026)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4681472006"
+    },
+    {
+      "id": "greenhouse:astranis:4704602006",
+      "company": "Astranis",
+      "title": "Mechanical Engineer Intern (Spring 2027)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704602006"
+    },
+    {
+      "id": "greenhouse:astranis:4704601006",
+      "company": "Astranis",
+      "title": "Mechanical Engineer Intern (Summer 2027)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704601006"
+    },
+    {
+      "id": "greenhouse:astranis:4704600006",
+      "company": "Astranis",
+      "title": "Mechanical Engineer Intern (Winter 2027)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704600006"
+    },
+    {
+      "id": "greenhouse:astranis:4625923006",
+      "company": "Astranis",
+      "title": "Power Electronics Intern (Fall 2026)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4625923006"
+    },
+    {
+      "id": "greenhouse:astranis:4694853006",
+      "company": "Astranis",
+      "title": "Radiation Effects Engineer Intern (Fall 2026)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006"
+    },
+    {
+      "id": "greenhouse:astranis:4703466006",
+      "company": "Astranis",
+      "title": "Sales Director - International Government ",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4703466006"
+    },
+    {
+      "id": "greenhouse:waymo:8177651",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer",
+      "location": "San Francisco, California, USA ",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8177651"
+    },
+    {
+      "id": "greenhouse:waymo:8174099",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS, SysEng Software Engineer",
+      "location": "Mountain View, California, USA ",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099"
+    },
+    {
+      "id": "greenhouse:waymo:8165014",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MBA, Operations Planning",
+      "location": "San Francisco",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8165014"
+    },
+    {
+      "id": "greenhouse:waymo:8167323",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
+      "location": "San Francisco, California, United States",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323"
+    },
+    {
+      "id": "greenhouse:waymo:8163364",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion",
+      "location": "San Francisco",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8163364"
+    },
+    {
+      "id": "greenhouse:waymo:8174504",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test ",
+      "location": "San Francisco, California, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
+    },
+    {
+      "id": "greenhouse:waymo:7890744",
+      "company": "Waymo",
+      "title": "International Standardization Lead (Staff Researcher)",
+      "location": "London, England, United Kingdom",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7890744"
+    },
+    {
+      "id": "greenhouse:waymo:7488508",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+      "location": "Mountain View, CA USA;  San Francisco, CA USA;",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7488508"
+    },
+    {
+      "id": "greenhouse:lucidmotors:5185317007",
+      "company": "Lucid Motors",
+      "title": "IT Asset Management Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185317007"
+    },
+    {
       "id": "greenhouse:spacex:8741940002",
       "company": "SpaceX",
       "title": "Full Stack Software Engineer, Internal Systems",
