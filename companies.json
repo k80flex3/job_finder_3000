@@ -1,4 +1,32 @@
 [
+  { "name": "Relativity Space",
+    "ats": "greenhouse",
+    "slug": "relativity"
+  },
+  { "name": "Anduril",
+    "ats": "greenhouse",
+    "slug": "andurilindustries" 
+  },
+  { "name": "Redwire Space",
+    "ats": "greenhouse",
+    "slug": "redwirespace" 
+  },
+  { "name": "Astranis",
+    "ats": "greenhouse", 
+    "slug": "astranis" 
+  },
+  { "name": "Waymo", 
+    "ats": "greenhouse", 
+    "slug": "waymo" 
+  },
+  { "name": "Lucid Motors",
+    "ats": "greenhouse", 
+    "slug": "lucidmotors" 
+  },
+  { "name": "Rivian", 
+    "ats": "greenhouse",
+    "slug": "rivian" 
+  },
   {
     "name": "SpaceX",
     "ats": "greenhouse",
