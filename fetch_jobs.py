@@ -22,7 +22,7 @@ import requests
 COMPANIES_FILE = Path("companies.json")
 JOBS_FILE = Path("docs/jobs.json")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
-DISCORD_WEBHOOK_URL_2 = os.environ.get("DISCORD_WEBHOOK_URL_2")
+DISCORD_WEBHOOK_URLS = [url for url in (DISCORD_WEBHOOK_URL, DISCORD_WEBHOOK_URL_2) if url]
 
 HEADERS = {"User-Agent": "FSAE-Job-Tracker/1.0"}
 
@@ -179,7 +179,7 @@ def load_previous_jobs():
 
 
 def send_discord_alert(job):
-    if not DISCORD_WEBHOOK_URL:
+    if not DISCORD_WEBHOOK_URLS:
         return
     message = {
         "embeds": [{
@@ -189,11 +189,11 @@ def send_discord_alert(job):
             "color": 3447003,
         }]
     }
-    try:
-        requests.post(DISCORD_WEBHOOK_URL, json=message, timeout=10)
-    except requests.RequestException as e:
-        print(f"  [warn] Discord post failed for {job['title']}: {e}")
-
+    for webhook_url in DISCORD_WEBHOOK_URLS:
+        try:
+            requests.post(webhook_url, json=message, timeout=10)
+        except requests.RequestException as e:
+            print(f"  [warn] Discord post failed for {job['title']}: {e}")
 
 def main():
     companies = load_companies()
@@ -234,8 +234,8 @@ def main():
     for job in new_jobs:
         send_discord_alert(job)
 
-    if new_jobs and not DISCORD_WEBHOOK_URL:
-        print("  [note] DISCORD_WEBHOOK_URL not set — skipped Discord alerts")
+        if new_jobs and not DISCORD_WEBHOOK_URLS:
+        print("  [note] No Discord webhook URLs set — skipped Discord alerts")
 
 
 if __name__ == "__main__":
