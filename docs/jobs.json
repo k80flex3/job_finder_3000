@@ -127,76 +127,6 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
     },
     {
-      "id": "greenhouse:andurilindustries:5201946007",
-      "company": "Anduril",
-      "title": "Associate Director, International Project Logistics",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201946007?gh_jid=5201946007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5201948007",
-      "company": "Anduril",
-      "title": "Associate Director, International Project Logistics",
-      "location": "Ashville, Ohio, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201948007?gh_jid=5201948007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5220149007",
-      "company": "Anduril",
-      "title": "Associate Director, Strategic Execution - International",
-      "location": "London, England, United Kingdom",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220149007?gh_jid=5220149007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5024425007",
-      "company": "Anduril",
-      "title": "Director, Business Development, Maritime (International Programs)",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5024425007?gh_jid=5024425007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5170127007",
-      "company": "Anduril",
-      "title": "Director, Business Development, Maritime (International Programs)",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170127007?gh_jid=5170127007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5192755007",
-      "company": "Anduril",
-      "title": "Director, Business Development - Mission Autonomy (International)",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5192755007?gh_jid=5192755007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5082586007",
-      "company": "Anduril",
-      "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5082586007?gh_jid=5082586007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5100621007",
-      "company": "Anduril",
-      "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5100621007?gh_jid=5100621007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5199325007",
-      "company": "Anduril",
-      "title": "International Deployment Manager, Middle East",
-      "location": "Irvine, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199325007?gh_jid=5199325007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5181971007",
-      "company": "Anduril",
-      "title": "International Legal Counsel",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5181971007?gh_jid=5181971007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5174562007",
       "company": "Anduril",
       "title": "Mission Engineer, Air Dominance & Strike, Early Career",
@@ -209,20 +139,6 @@
       "title": "Naval Architect Co-op - Winter 2027",
       "location": "Costa Mesa, California, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5170844007?gh_jid=5170844007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5217656007",
-      "company": "Anduril",
-      "title": "Senior International Trade Compliance Engineer",
-      "location": "Costa Mesa, California, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217656007?gh_jid=5217656007"
-    },
-    {
-      "id": "greenhouse:andurilindustries:5217458007",
-      "company": "Anduril",
-      "title": "Senior International Trade Compliance Engineer",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217458007?gh_jid=5217458007"
     },
     {
       "id": "greenhouse:astranis:4704740006",
@@ -288,13 +204,6 @@
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006"
     },
     {
-      "id": "greenhouse:astranis:4703466006",
-      "company": "Astranis",
-      "title": "Sales Director - International Government ",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4703466006"
-    },
-    {
       "id": "greenhouse:waymo:8177651",
       "company": "Waymo",
       "title": "2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer",
@@ -337,13 +246,6 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     },
     {
-      "id": "greenhouse:waymo:7890744",
-      "company": "Waymo",
-      "title": "International Standardization Lead (Staff Researcher)",
-      "location": "London, England, United Kingdom",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7890744"
-    },
-    {
       "id": "greenhouse:waymo:7488508",
       "company": "Waymo",
       "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
@@ -356,286 +258,6 @@
       "title": "IT Asset Management Intern",
       "location": "Amsterdam, NH",
       "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5185317007"
-    },
-    {
-      "id": "greenhouse:spacex:8741940002",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer, Internal Systems",
-      "location": "Cape Canaveral, FL",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8741940002?gh_jid=8741940002"
-    },
-    {
-      "id": "greenhouse:spacex:8681167002",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer, Internal Systems ",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8681167002?gh_jid=8681167002"
-    },
-    {
-      "id": "greenhouse:spacex:8663562002",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer, Internal Systems ",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8663562002?gh_jid=8663562002"
-    },
-    {
-      "id": "greenhouse:spacex:8686286002",
-      "company": "SpaceX",
-      "title": "Full Stack Software Engineer, Internal Systems - Memphis",
-      "location": "Memphis, TN",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8686286002?gh_jid=8686286002"
-    },
-    {
-      "id": "greenhouse:spacex:8647689002",
-      "company": "SpaceX",
-      "title": "Government Program Development Manager (International)",
-      "location": "Washington, DC",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8647689002?gh_jid=8647689002"
-    },
-    {
-      "id": "greenhouse:spacex:8706964002",
-      "company": "SpaceX",
-      "title": "Internal Mobility Analyst (Recruiting) - Memphis",
-      "location": "Memphis, TN",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8706964002?gh_jid=8706964002"
-    },
-    {
-      "id": "greenhouse:spacex:8766913002",
-      "company": "SpaceX",
-      "title": "International Infrastructure Operations Specialist (Starlink)",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8766913002?gh_jid=8766913002"
-    },
-    {
-      "id": "greenhouse:spacex:8675100002",
-      "company": "SpaceX",
-      "title": "IT Internal Audit Manager",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8675100002?gh_jid=8675100002"
-    },
-    {
-      "id": "greenhouse:spacex:8731991002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Civil/Structural (Starship)",
-      "location": "Starbase, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002"
-    },
-    {
-      "id": "greenhouse:spacex:8696490002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002"
-    },
-    {
-      "id": "greenhouse:spacex:8696469002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002"
-    },
-    {
-      "id": "greenhouse:spacex:8483305002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Electrical (Starshield)",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8483305002?gh_jid=8483305002"
-    },
-    {
-      "id": "greenhouse:spacex:8729124002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Electrical (Starship)",
-      "location": "Starbase, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002"
-    },
-    {
-      "id": "greenhouse:spacex:8696105002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002"
-    },
-    {
-      "id": "greenhouse:spacex:8696124002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002"
-    },
-    {
-      "id": "greenhouse:spacex:8578087002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Launch & Test (Starship)",
-      "location": "Starbase, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8578087002?gh_jid=8578087002"
-    },
-    {
-      "id": "greenhouse:spacex:8752547002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Manufacturing (Starshield)",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002"
-    },
-    {
-      "id": "greenhouse:spacex:8729120002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Manufacturing (Starship)",
-      "location": "Starbase, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002"
-    },
-    {
-      "id": "greenhouse:spacex:8497524002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Mechanical",
-      "location": "McGregor, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8497524002?gh_jid=8497524002"
-    },
-    {
-      "id": "greenhouse:spacex:8696986002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Mechanical - '26/'27 (Starlink)",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002"
-    },
-    {
-      "id": "greenhouse:spacex:8696952002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Mechanical - '26/'27 (Starlink)",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002"
-    },
-    {
-      "id": "greenhouse:spacex:8622574002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Mechanical (Cape Canaveral)",
-      "location": "Cape Canaveral, FL",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002"
-    },
-    {
-      "id": "greenhouse:spacex:8493166002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Mechanical (Starshield)",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8493166002?gh_jid=8493166002"
-    },
-    {
-      "id": "greenhouse:spacex:8729117002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Mechanical (Starship)",
-      "location": "Starbase, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002"
-    },
-    {
-      "id": "greenhouse:spacex:8517361002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Propulsion (Raptor)",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002"
-    },
-    {
-      "id": "greenhouse:spacex:8729085002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Propulsion (Starship)",
-      "location": "Starbase, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002"
-    },
-    {
-      "id": "greenhouse:spacex:8706885002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Silicon Engineering",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002"
-    },
-    {
-      "id": "greenhouse:spacex:8706884002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Silicon Engineering",
-      "location": "Irvine, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002"
-    },
-    {
-      "id": "greenhouse:spacex:8703552002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Silicon Engineering",
-      "location": "Palo Alto, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002"
-    },
-    {
-      "id": "greenhouse:spacex:8493079002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002"
-    },
-    {
-      "id": "greenhouse:spacex:8696097002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software  - '26/'27  (Starlink)",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002"
-    },
-    {
-      "id": "greenhouse:spacex:8696080002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-      "location": "Palo Alto, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002"
-    },
-    {
-      "id": "greenhouse:spacex:8696058002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002"
-    },
-    {
-      "id": "greenhouse:spacex:8730567002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software (Application Software)",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002"
-    },
-    {
-      "id": "greenhouse:spacex:8696156002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002"
-    },
-    {
-      "id": "greenhouse:spacex:8696143002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Redmond, WA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
-    },
-    {
-      "id": "greenhouse:spacex:8724316002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002"
-    },
-    {
-      "id": "greenhouse:spacex:8696158002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Palo Alto, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002"
-    },
-    {
-      "id": "greenhouse:spacex:8729121002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software (Starship)",
-      "location": "Starbase, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002"
-    },
-    {
-      "id": "greenhouse:spacex:8783046002",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Starship Components",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002"
     },
     {
       "id": "greenhouse:spacex:8621770002",
@@ -680,27 +302,6 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002"
     },
     {
-      "id": "greenhouse:spacex:8675900002",
-      "company": "SpaceX",
-      "title": "Sr. Full Stack Engineer, Internal Systems",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8675900002?gh_jid=8675900002"
-    },
-    {
-      "id": "greenhouse:spacex:8696900002",
-      "company": "SpaceX",
-      "title": "Sr. Full Stack Engineer, Internal Systems",
-      "location": "Bastrop, TX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696900002?gh_jid=8696900002"
-    },
-    {
-      "id": "greenhouse:spacex:8758274002",
-      "company": "SpaceX",
-      "title": "Sr. Internal Audit Manager",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8758274002?gh_jid=8758274002"
-    },
-    {
       "id": "greenhouse:spacex:8621771002",
       "company": "SpaceX",
       "title": "Summer 2027 Business Operations Internship/Co-op",
@@ -743,13 +344,6 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002"
     },
     {
-      "id": "greenhouse:spacex:8542170002",
-      "company": "SpaceX",
-      "title": "Tax Analyst, International",
-      "location": "Hawthorne, CA",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8542170002?gh_jid=8542170002"
-    },
-    {
       "id": "greenhouse:rocketlab:7821144003",
       "company": "Rocket Lab",
       "title": "Avionics Development Intern - Electron",
@@ -785,18 +379,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819770003"
     },
     {
-      "id": "greenhouse:rocketlab:7822523003",
-      "company": "Rocket Lab",
-      "title": "Business Analyst Intern - Supply Chain",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822523003"
-    },
-    {
       "id": "greenhouse:rocketlab:7822525003",
       "company": "Rocket Lab",
       "title": "Business Analyst Intern - Supply Chain",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822525003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7822523003",
+      "company": "Rocket Lab",
+      "title": "Business Analyst Intern - Supply Chain",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822523003"
     },
     {
       "id": "greenhouse:rocketlab:7963751003",
@@ -967,18 +561,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821134003"
     },
     {
-      "id": "greenhouse:rocketlab:7821193003",
-      "company": "Rocket Lab",
-      "title": "Neutron Mechanical Development Intern",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"
-    },
-    {
       "id": "greenhouse:rocketlab:7821122003",
       "company": "Rocket Lab",
       "title": "Neutron Mechanical Development Intern",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821122003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7821193003",
+      "company": "Rocket Lab",
+      "title": "Neutron Mechanical Development Intern",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"
     },
     {
       "id": "greenhouse:rocketlab:7845193003",
