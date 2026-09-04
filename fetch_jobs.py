@@ -22,6 +22,7 @@ import requests
 COMPANIES_FILE = Path("companies.json")
 JOBS_FILE = Path("docs/jobs.json")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
+DISCORD_WEBHOOK_URL_2 = os.environ.get("DISCORD_WEBHOOK_URL_2")
 DISCORD_WEBHOOK_URLS = [url for url in (DISCORD_WEBHOOK_URL, DISCORD_WEBHOOK_URL_2) if url]
 
 HEADERS = {"User-Agent": "FSAE-Job-Tracker/1.0"}
