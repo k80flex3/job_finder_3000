@@ -235,8 +235,7 @@ def main():
         send_discord_alert(job)
 
         if new_jobs and not DISCORD_WEBHOOK_URLS:
-        print("  [note] No Discord webhook URLs set — skipped Discord alerts")
-
+          print("  [note] No discord webhook URLs set - skipped discord alerts")
 
 if __name__ == "__main__":
-    sys.exit(main())
+  sys.exit(main())
