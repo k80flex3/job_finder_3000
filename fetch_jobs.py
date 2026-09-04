@@ -23,14 +23,15 @@ COMPANIES_FILE = Path("companies.json")
 JOBS_FILE = Path("docs/jobs.json")
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 DISCORD_WEBHOOK_URL_2 = os.environ.get("DISCORD_WEBHOOK_URL_2")
-DISCORD_WEBHOOK_URLS = [url for url in (DISCORD_WEBHOOK_URL, DISCORD_WEBHOOK_URL_2) if url]
+DISCORD_WEBHOOK_URL_3 = os.environ.get("DISCORD_WEBHOOK_URL_3")
+DISCORD_WEBHOOK_URLS = [url for url in (DISCORD_WEBHOOK_URL, DISCORD_WEBHOOK_URL_2, DISCORD_WEBHOOK_URL_3) if url]
 
 HEADERS = {"User-Agent": "FSAE-Job-Tracker/1.0"}
 
 # Only keep postings whose title looks like an internship/co-op/early-career role.
 INTERNSHIP_KEYWORDS = [
     "intern", "internship", "co-op", "coop", "college", "university",
-    "student", "early career", "new grad", "graduate program","united states","united states of america"
+    "student", "early career", "new grad", "graduate program",
 ]
 
 
@@ -192,9 +193,13 @@ def send_discord_alert(job):
     }
     for webhook_url in DISCORD_WEBHOOK_URLS:
         try:
-            requests.post(webhook_url, json=message, timeout=10)
+            resp = requests.post(webhook_url, json=message, timeout=10)
+            print(f"  [discord] ...{webhook_url[-10:]} -> status {resp.status_code}")
+            if resp.status_code >= 300:
+                print(f"  [discord] response body: {resp.text[:300]}")
         except requests.RequestException as e:
             print(f"  [warn] Discord post failed for {job['title']}: {e}")
+
 
 def main():
     companies = load_companies()
@@ -231,12 +236,16 @@ def main():
 
     print(f"\nTotal postings: {len(all_jobs)}")
     print(f"New since last run: {len(new_jobs)}")
+    print(f"Configured webhooks: {len(DISCORD_WEBHOOK_URLS)}")
+    for i, url in enumerate(DISCORD_WEBHOOK_URLS, 1):
+        print(f"  webhook {i} ends in: ...{url[-10:]}")
 
     for job in new_jobs:
         send_discord_alert(job)
 
-        if new_jobs and not DISCORD_WEBHOOK_URLS:
-          print("  [note] No discord webhook URLs set - skipped discord alerts")
+    if new_jobs and not DISCORD_WEBHOOK_URLS:
+        print("  [note] No Discord webhook URLs set — skipped Discord alerts")
+
 
 if __name__ == "__main__":
-  sys.exit(main())
+    sys.exit(main())
