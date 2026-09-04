@@ -221,7 +221,7 @@
       "id": "greenhouse:waymo:8165014",
       "company": "Waymo",
       "title": "2027 Summer Intern, MBA, Operations Planning",
-      "location": "San Francisco",
+      "location": "San Francisco, California, United States",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8165014"
     },
     {
@@ -235,7 +235,7 @@
       "id": "greenhouse:waymo:8163364",
       "company": "Waymo",
       "title": "2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion",
-      "location": "San Francisco",
+      "location": "San Francisco, California, United States",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8163364"
     },
     {
@@ -456,18 +456,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"
     },
     {
-      "id": "greenhouse:rocketlab:7822310003",
-      "company": "Rocket Lab",
-      "title": "Ground Systems Engineering Intern - Electron",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822310003"
-    },
-    {
       "id": "greenhouse:rocketlab:7822312003",
       "company": "Rocket Lab",
       "title": "Ground Systems Engineering Intern - Electron",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822312003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7822310003",
+      "company": "Rocket Lab",
+      "title": "Ground Systems Engineering Intern - Electron",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822310003"
     },
     {
       "id": "greenhouse:rocketlab:7819722003",
