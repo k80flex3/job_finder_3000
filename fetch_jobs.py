@@ -31,13 +31,18 @@ HEADERS = {"User-Agent": "FSAE-Job-Tracker/1.0"}
 # Only keep postings whose title looks like an internship/co-op/early-career role.
 INTERNSHIP_KEYWORDS = [
     "intern", "internship", "co-op", "coop", "college", "university",
-    "student", "early career", "new grad", "graduate program", "united states", "united states of america"
+    "student", "early career", "new grad", "graduate program",
 ]
+
+# Word-boundary pattern so "intern" doesn't match inside "international"
+_KEYWORD_PATTERN = re.compile(
+    r"\b(" + "|".join(re.escape(kw) for kw in INTERNSHIP_KEYWORDS) + r")\b",
+    re.IGNORECASE,
+)
 
 
 def is_internship(title):
-    title_lower = title.lower()
-    return any(kw in title_lower for kw in INTERNSHIP_KEYWORDS)
+    return bool(_KEYWORD_PATTERN.search(title))
 
 
 def fetch_greenhouse(company):
