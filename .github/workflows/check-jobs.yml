@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "job-tracker-bot"
           git config user.email "actions@github.com"
-          git add docs/jobs.json docs/alerts_log.json
+          git add docs/jobs.json docs/alert_log.json
           git diff --quiet --cached || git commit -m "Update job listings"
           git push
