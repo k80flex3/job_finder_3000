@@ -113,18 +113,18 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007"
     },
     {
-      "id": "greenhouse:andurilindustries:5153187007",
-      "company": "Anduril",
-      "title": "2027 Mechanical Engineer Intern",
-      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5232027007",
       "company": "Anduril",
       "title": "2027 Mechanical Engineer Intern",
       "location": "Dublin, Dublin, Ireland",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232027007?gh_jid=5232027007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5153187007",
+      "company": "Anduril",
+      "title": "2027 Mechanical Engineer Intern",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"
     },
     {
       "id": "greenhouse:andurilindustries:5231653007",
@@ -134,18 +134,18 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007"
     },
     {
-      "id": "greenhouse:andurilindustries:5148079007",
-      "company": "Anduril",
-      "title": "2027 Software Engineer Intern",
-      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5231488007",
       "company": "Anduril",
       "title": "2027 Software Engineer Intern",
       "location": "Dublin, Dublin, Ireland",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5148079007",
+      "company": "Anduril",
+      "title": "2027 Software Engineer Intern",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
     },
     {
       "id": "greenhouse:andurilindustries:5232025007",
@@ -365,6 +365,20 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002"
     },
     {
+      "id": "greenhouse:rocketlab:7983576003",
+      "company": "Rocket Lab",
+      "title": "Additive Manufacturing Intern Spring 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7983576003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7984600003",
+      "company": "Rocket Lab",
+      "title": "Additive Manufacturing Intern Summer 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984600003"
+    },
+    {
       "id": "greenhouse:rocketlab:7821144003",
       "company": "Rocket Lab",
       "title": "Avionics Development Intern - Electron",
@@ -372,11 +386,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821144003"
     },
     {
-      "id": "greenhouse:rocketlab:7819743003",
+      "id": "greenhouse:rocketlab:7989733003",
       "company": "Rocket Lab",
-      "title": "Avionics Intern - Neutron Avionics Hardware",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819743003"
+      "title": "Avionics Engineering Intern Summer 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989733003"
     },
     {
       "id": "greenhouse:rocketlab:7819822003",
@@ -393,13 +407,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819770003"
     },
     {
-      "id": "greenhouse:rocketlab:7822523003",
-      "company": "Rocket Lab",
-      "title": "Business Analyst Intern - Supply Chain",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822523003"
-    },
-    {
       "id": "greenhouse:rocketlab:7822525003",
       "company": "Rocket Lab",
       "title": "Business Analyst Intern - Supply Chain",
@@ -407,11 +414,25 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822525003"
     },
     {
+      "id": "greenhouse:rocketlab:7822523003",
+      "company": "Rocket Lab",
+      "title": "Business Analyst Intern - Supply Chain",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822523003"
+    },
+    {
       "id": "greenhouse:rocketlab:7963751003",
       "company": "Rocket Lab",
       "title": "CAD Data Intern",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7963751003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7986748003",
+      "company": "Rocket Lab",
+      "title": "Combustion Devices Intern Summer 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986748003"
     },
     {
       "id": "greenhouse:rocketlab:7825281003",
@@ -435,6 +456,20 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821126003"
     },
     {
+      "id": "greenhouse:rocketlab:7990045003",
+      "company": "Rocket Lab",
+      "title": "Electrical Engineering Intern Spring 2027",
+      "location": "Toronto, CAN",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990045003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7990043003",
+      "company": "Rocket Lab",
+      "title": "Electrical Engineering Intern Summer 2027",
+      "location": "Toronto, CAN",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003"
+    },
+    {
       "id": "greenhouse:rocketlab:7821142003",
       "company": "Rocket Lab",
       "title": "Electron Configuration Management Intern",
@@ -454,6 +489,41 @@
       "title": "Flight Analysis Intern - Software",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819877003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7989724003",
+      "company": "Rocket Lab",
+      "title": "Flight Software Intern Spring 2027",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7989722003",
+      "company": "Rocket Lab",
+      "title": "Flight Software Intern Summer 2027",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7990365003",
+      "company": "Rocket Lab",
+      "title": "Fluid Component Intern Summer 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990365003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7986788003",
+      "company": "Rocket Lab",
+      "title": "Fluid Systems Intern Spring 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986788003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7986794003",
+      "company": "Rocket Lab",
+      "title": "Fluid Systems Intern Summer 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986794003"
     },
     {
       "id": "greenhouse:rocketlab:7821140003",
@@ -505,13 +575,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7827254003"
     },
     {
-      "id": "greenhouse:rocketlab:7821115003",
-      "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821115003"
-    },
-    {
       "id": "greenhouse:rocketlab:7825144003",
       "company": "Rocket Lab",
       "title": "Manufacturing Engineering Intern - Composites",
@@ -554,18 +617,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821134003"
     },
     {
-      "id": "greenhouse:rocketlab:7821193003",
-      "company": "Rocket Lab",
-      "title": "Neutron Mechanical Development Intern",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"
-    },
-    {
       "id": "greenhouse:rocketlab:7821122003",
       "company": "Rocket Lab",
       "title": "Neutron Mechanical Development Intern",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821122003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7821193003",
+      "company": "Rocket Lab",
+      "title": "Neutron Mechanical Development Intern",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"
     },
     {
       "id": "greenhouse:rocketlab:7845193003",
