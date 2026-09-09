@@ -106,6 +106,13 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007"
     },
     {
+      "id": "greenhouse:andurilindustries:5231555007",
+      "company": "Anduril",
+      "title": "2027 Hardware Engineer Intern",
+      "location": "Dublin, Dublin, Ireland",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231555007?gh_jid=5231555007"
+    },
+    {
       "id": "greenhouse:andurilindustries:5153218007",
       "company": "Anduril",
       "title": "2027 Manufacturing Engineer Intern",
@@ -120,11 +127,39 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"
     },
     {
+      "id": "greenhouse:andurilindustries:5232027007",
+      "company": "Anduril",
+      "title": "2027 Mechanical Engineer Intern",
+      "location": "Dublin, Dublin, Ireland",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232027007?gh_jid=5232027007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5231653007",
+      "company": "Anduril",
+      "title": "2027 Quality & Test Engineer Intern",
+      "location": "Dublin, Dublin, Ireland",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007"
+    },
+    {
       "id": "greenhouse:andurilindustries:5148079007",
       "company": "Anduril",
       "title": "2027 Software Engineer Intern",
       "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5231488007",
+      "company": "Anduril",
+      "title": "2027 Software Engineer Intern",
+      "location": "Dublin, Dublin, Ireland",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5232025007",
+      "company": "Anduril",
+      "title": "2027 Software Quality Assurance Intern",
+      "location": "Dublin, Dublin, Ireland",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007"
     },
     {
       "id": "greenhouse:andurilindustries:5174562007",
@@ -365,18 +400,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819770003"
     },
     {
-      "id": "greenhouse:rocketlab:7822525003",
-      "company": "Rocket Lab",
-      "title": "Business Analyst Intern - Supply Chain",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822525003"
-    },
-    {
       "id": "greenhouse:rocketlab:7822523003",
       "company": "Rocket Lab",
       "title": "Business Analyst Intern - Supply Chain",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822523003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7822525003",
+      "company": "Rocket Lab",
+      "title": "Business Analyst Intern - Supply Chain",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822525003"
     },
     {
       "id": "greenhouse:rocketlab:7963751003",
@@ -484,18 +519,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821115003"
     },
     {
-      "id": "greenhouse:rocketlab:7825144003",
-      "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern - Composites",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825144003"
-    },
-    {
       "id": "greenhouse:rocketlab:7882562003",
       "company": "Rocket Lab",
       "title": "Manufacturing Engineering Intern - Composites",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7882562003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7825144003",
+      "company": "Rocket Lab",
+      "title": "Manufacturing Engineering Intern - Composites",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825144003"
     },
     {
       "id": "greenhouse:rocketlab:7820014003",
