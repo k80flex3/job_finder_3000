@@ -274,6 +274,13 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     },
     {
+      "id": "greenhouse:waymo:8193295",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+      "location": "Mountain View, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295"
+    },
+    {
       "id": "greenhouse:waymo:8189848",
       "company": "Waymo",
       "title": "2027 Summer Intern, PhD, Vehicle Intent and Prediction",
@@ -561,18 +568,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"
     },
     {
-      "id": "greenhouse:rocketlab:7822312003",
-      "company": "Rocket Lab",
-      "title": "Ground Systems Engineering Intern - Electron",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822312003"
-    },
-    {
       "id": "greenhouse:rocketlab:7822310003",
       "company": "Rocket Lab",
       "title": "Ground Systems Engineering Intern - Electron",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822310003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7822312003",
+      "company": "Rocket Lab",
+      "title": "Ground Systems Engineering Intern - Electron",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822312003"
     },
     {
       "id": "greenhouse:rocketlab:7819722003",
@@ -657,13 +664,6 @@
       "title": "Manufacturing Engineering Intern - Vehicle Integration",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819745003"
-    },
-    {
-      "id": "greenhouse:rocketlab:7821134003",
-      "company": "Rocket Lab",
-      "title": "Mechanical Development Intern",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821134003"
     },
     {
       "id": "greenhouse:rocketlab:7986368003",
