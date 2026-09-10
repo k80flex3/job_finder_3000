@@ -134,18 +134,18 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007"
     },
     {
-      "id": "greenhouse:andurilindustries:5231488007",
-      "company": "Anduril",
-      "title": "2027 Software Engineer Intern",
-      "location": "Dublin, Dublin, Ireland",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5148079007",
       "company": "Anduril",
       "title": "2027 Software Engineer Intern",
       "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5231488007",
+      "company": "Anduril",
+      "title": "2027 Software Engineer Intern",
+      "location": "Dublin, Dublin, Ireland",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007"
     },
     {
       "id": "greenhouse:andurilindustries:5232025007",
@@ -379,13 +379,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984600003"
     },
     {
-      "id": "greenhouse:rocketlab:7821144003",
-      "company": "Rocket Lab",
-      "title": "Avionics Development Intern - Electron",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821144003"
-    },
-    {
       "id": "greenhouse:rocketlab:7989733003",
       "company": "Rocket Lab",
       "title": "Avionics Engineering Intern Summer 2027",
@@ -407,18 +400,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819770003"
     },
     {
-      "id": "greenhouse:rocketlab:7822525003",
-      "company": "Rocket Lab",
-      "title": "Business Analyst Intern - Supply Chain",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822525003"
-    },
-    {
       "id": "greenhouse:rocketlab:7822523003",
       "company": "Rocket Lab",
       "title": "Business Analyst Intern - Supply Chain",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822523003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7822525003",
+      "company": "Rocket Lab",
+      "title": "Business Analyst Intern - Supply Chain",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822525003"
     },
     {
       "id": "greenhouse:rocketlab:7963751003",
@@ -526,6 +519,13 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986794003"
     },
     {
+      "id": "greenhouse:rocketlab:7989993003",
+      "company": "Rocket Lab",
+      "title": "GNC Intern Summer 2027",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989993003"
+    },
+    {
       "id": "greenhouse:rocketlab:7821140003",
       "company": "Rocket Lab",
       "title": "Ground Systems Engineering Intern",
@@ -559,6 +559,27 @@
       "title": "Ground Systems Mechanical Engineering Intern - Neutron",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821138003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7990268003",
+      "company": "Rocket Lab",
+      "title": "HITL Engineering Intern Summer 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990268003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7987252003",
+      "company": "Rocket Lab",
+      "title": "Integration & Test Intern Spring 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987252003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7987250003",
+      "company": "Rocket Lab",
+      "title": "Integration & Test Intern Summer 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987250003"
     },
     {
       "id": "greenhouse:rocketlab:7891333003",
@@ -645,11 +666,39 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819101003"
     },
     {
+      "id": "greenhouse:rocketlab:7987044003",
+      "company": "Rocket Lab",
+      "title": "Systems Engineering Intern Spring 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987044003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7987046003",
+      "company": "Rocket Lab",
+      "title": "Systems Engineering Intern Summer 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003"
+    },
+    {
       "id": "greenhouse:rocketlab:7819832003",
       "company": "Rocket Lab",
       "title": "Talent Marketing Ops Intern",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819832003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7987210003",
+      "company": "Rocket Lab",
+      "title": "Turbomachinery Intern Spring 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987210003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7987208003",
+      "company": "Rocket Lab",
+      "title": "Turbomachinery Intern Summer 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987208003"
     },
     {
       "id": "greenhouse:rocketlab:7821120003",
