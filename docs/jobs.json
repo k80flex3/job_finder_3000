@@ -113,18 +113,18 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007"
     },
     {
-      "id": "greenhouse:andurilindustries:5153187007",
-      "company": "Anduril",
-      "title": "2027 Mechanical Engineer Intern",
-      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5232027007",
       "company": "Anduril",
       "title": "2027 Mechanical Engineer Intern",
       "location": "Dublin, Dublin, Ireland",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232027007?gh_jid=5232027007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5153187007",
+      "company": "Anduril",
+      "title": "2027 Mechanical Engineer Intern",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"
     },
     {
       "id": "greenhouse:andurilindustries:5231653007",
@@ -477,18 +477,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990045003"
     },
     {
-      "id": "greenhouse:rocketlab:7990043003",
-      "company": "Rocket Lab",
-      "title": "Electrical Engineering Intern Summer 2027",
-      "location": "Toronto, CAN",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003"
-    },
-    {
       "id": "greenhouse:rocketlab:7990683003",
       "company": "Rocket Lab",
       "title": "Electrical Engineering Intern Summer 2027",
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7990043003",
+      "company": "Rocket Lab",
+      "title": "Electrical Engineering Intern Summer 2027",
+      "location": "Toronto, CAN",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003"
     },
     {
       "id": "greenhouse:rocketlab:7821142003",
@@ -566,13 +566,6 @@
       "title": "Ground Systems Engineering Intern",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"
-    },
-    {
-      "id": "greenhouse:rocketlab:7822310003",
-      "company": "Rocket Lab",
-      "title": "Ground Systems Engineering Intern - Electron",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822310003"
     },
     {
       "id": "greenhouse:rocketlab:7822312003",
