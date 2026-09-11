@@ -449,13 +449,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986748003"
     },
     {
-      "id": "greenhouse:rocketlab:7825281003",
-      "company": "Rocket Lab",
-      "title": "Development Engineering Intern - Neutron Thermal Protection Systems",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825281003"
-    },
-    {
       "id": "greenhouse:rocketlab:7825563003",
       "company": "Rocket Lab",
       "title": "Development Engineering Intern - Neutron Thrust Module",
@@ -624,18 +617,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7827254003"
     },
     {
-      "id": "greenhouse:rocketlab:7825144003",
-      "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern - Composites",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825144003"
-    },
-    {
       "id": "greenhouse:rocketlab:7882562003",
       "company": "Rocket Lab",
       "title": "Manufacturing Engineering Intern - Composites",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7882562003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7825144003",
+      "company": "Rocket Lab",
+      "title": "Manufacturing Engineering Intern - Composites",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825144003"
     },
     {
       "id": "greenhouse:rocketlab:7820014003",
