@@ -253,6 +253,13 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
     },
     {
+      "id": "greenhouse:waymo:8198218",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "location": "Mountain View, California, United States; San Francisco, California, United States",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
+    },
+    {
       "id": "greenhouse:waymo:8174099",
       "company": "Waymo",
       "title": "2027 Summer Intern, BS, SysEng Software Engineer",
@@ -265,6 +272,13 @@
       "title": "2027 Summer Intern, MBA, Operations Planning",
       "location": "San Francisco, California, United States",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8165014"
+    },
+    {
+      "id": "greenhouse:waymo:8197014",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MBA, Strategic Finance",
+      "location": "San Francisco, California, United States",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8197014"
     },
     {
       "id": "greenhouse:waymo:8167323",
@@ -652,18 +666,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985083003"
     },
     {
-      "id": "greenhouse:rocketlab:7882562003",
-      "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern - Composites",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7882562003"
-    },
-    {
       "id": "greenhouse:rocketlab:7825144003",
       "company": "Rocket Lab",
       "title": "Manufacturing Engineering Intern - Composites",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825144003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7882562003",
+      "company": "Rocket Lab",
+      "title": "Manufacturing Engineering Intern - Composites",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7882562003"
     },
     {
       "id": "greenhouse:rocketlab:7820014003",
