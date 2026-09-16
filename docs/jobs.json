@@ -134,13 +134,6 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007"
     },
     {
-      "id": "greenhouse:andurilindustries:5153187007",
-      "company": "Anduril",
-      "title": "2027 Mechanical Engineer Intern",
-      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5232027007",
       "company": "Anduril",
       "title": "2027 Mechanical Engineer Intern",
@@ -148,11 +141,11 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232027007?gh_jid=5232027007"
     },
     {
-      "id": "greenhouse:andurilindustries:5231488007",
+      "id": "greenhouse:andurilindustries:5153187007",
       "company": "Anduril",
-      "title": "2027 Software Engineer Intern",
-      "location": "Dublin, Dublin, Ireland",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007"
+      "title": "2027 Mechanical Engineer Intern",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"
     },
     {
       "id": "greenhouse:andurilindustries:5148079007",
@@ -405,6 +398,13 @@
       "title": "2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion",
       "location": "San Francisco, California, United States",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8163364"
+    },
+    {
+      "id": "greenhouse:waymo:8202801",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS, Software Engineer",
+      "location": "Mountain View, California, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
     },
     {
       "id": "greenhouse:waymo:8174504",
@@ -839,6 +839,13 @@
       "title": "Propulsion Intern Summer 2027",
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986792003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7991657003",
+      "company": "Rocket Lab",
+      "title": "RF Engineering Intern",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991657003"
     },
     {
       "id": "greenhouse:rocketlab:7845193003",
