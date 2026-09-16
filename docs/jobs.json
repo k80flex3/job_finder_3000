@@ -148,13 +148,6 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232027007?gh_jid=5232027007"
     },
     {
-      "id": "greenhouse:andurilindustries:5231653007",
-      "company": "Anduril",
-      "title": "2027 Quality & Test Engineer Intern",
-      "location": "Dublin, Dublin, Ireland",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231653007?gh_jid=5231653007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5231488007",
       "company": "Anduril",
       "title": "2027 Software Engineer Intern",
@@ -596,20 +589,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986748003"
     },
     {
-      "id": "greenhouse:rocketlab:7825563003",
-      "company": "Rocket Lab",
-      "title": "Development Engineering Intern - Neutron Thrust Module",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825563003"
-    },
-    {
-      "id": "greenhouse:rocketlab:7821126003",
-      "company": "Rocket Lab",
-      "title": "Development Engineering Intern - Neutron Upper Module",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821126003"
-    },
-    {
       "id": "greenhouse:rocketlab:7990045003",
       "company": "Rocket Lab",
       "title": "Electrical Engineering Intern Spring 2027",
@@ -701,13 +680,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"
     },
     {
-      "id": "greenhouse:rocketlab:7822312003",
-      "company": "Rocket Lab",
-      "title": "Ground Systems Engineering Intern - Electron",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822312003"
-    },
-    {
       "id": "greenhouse:rocketlab:7819722003",
       "company": "Rocket Lab",
       "title": "Ground Systems Engineering Intern - Instrumentation & Control",
@@ -771,25 +743,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985083003"
     },
     {
-      "id": "greenhouse:rocketlab:7825144003",
-      "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern - Composites",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7825144003"
-    },
-    {
       "id": "greenhouse:rocketlab:7882562003",
       "company": "Rocket Lab",
       "title": "Manufacturing Engineering Intern - Composites",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7882562003"
-    },
-    {
-      "id": "greenhouse:rocketlab:7820014003",
-      "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern- Spacecraft Components",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820014003"
     },
     {
       "id": "greenhouse:rocketlab:7820012003",
@@ -806,18 +764,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819745003"
     },
     {
-      "id": "greenhouse:rocketlab:7985634003",
-      "company": "Rocket Lab",
-      "title": "Mechanical Engineering Intern Spring 2027",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985634003"
-    },
-    {
       "id": "greenhouse:rocketlab:7986368003",
       "company": "Rocket Lab",
       "title": "Mechanical Engineering Intern Spring 2027",
       "location": "Toronto, CAN",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986368003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7985634003",
+      "company": "Rocket Lab",
+      "title": "Mechanical Engineering Intern Spring 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985634003"
     },
     {
       "id": "greenhouse:rocketlab:7991448003",
@@ -834,18 +792,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991769003"
     },
     {
-      "id": "greenhouse:rocketlab:7821193003",
-      "company": "Rocket Lab",
-      "title": "Neutron Mechanical Development Intern",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"
-    },
-    {
       "id": "greenhouse:rocketlab:7821122003",
       "company": "Rocket Lab",
       "title": "Neutron Mechanical Development Intern",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821122003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7821193003",
+      "company": "Rocket Lab",
+      "title": "Neutron Mechanical Development Intern",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"
     },
     {
       "id": "greenhouse:rocketlab:7990245003",
