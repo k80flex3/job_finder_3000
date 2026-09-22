@@ -309,6 +309,27 @@
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4705652006"
     },
     {
+      "id": "greenhouse:astranis:4704598006",
+      "company": "Astranis",
+      "title": "Flight Software Intern (Summer 2027)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006"
+    },
+    {
+      "id": "greenhouse:astranis:4704595006",
+      "company": "Astranis",
+      "title": "Flight Software Intern (Winter 2027)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006"
+    },
+    {
+      "id": "greenhouse:astranis:4705172006",
+      "company": "Astranis",
+      "title": "Guidance, Navigation, and Control Intern (Summer 2027)",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705172006"
+    },
+    {
       "id": "greenhouse:astranis:4707012006",
       "company": "Astranis",
       "title": "Hardware Test Intern (Winter 2027)",
@@ -391,6 +412,20 @@
       "title": "Radiation Effects Engineer Intern (Fall 2026)",
       "location": "San Francisco",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006"
+    },
+    {
+      "id": "greenhouse:astranis:4705214006",
+      "company": "Astranis",
+      "title": "Software Engineer Backend Intern (Summer 2027)",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
+    },
+    {
+      "id": "greenhouse:astranis:4705610006",
+      "company": "Astranis",
+      "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
     },
     {
       "id": "greenhouse:waymo:8221198",
@@ -552,6 +587,13 @@
       "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test ",
       "location": "San Francisco, California, USA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
+    },
+    {
+      "id": "greenhouse:waymo:8221956",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Data Science",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956"
     },
     {
       "id": "greenhouse:waymo:8203191",
@@ -743,18 +785,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819770003"
     },
     {
-      "id": "greenhouse:rocketlab:7822525003",
-      "company": "Rocket Lab",
-      "title": "Business Analyst Intern - Supply Chain",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822525003"
-    },
-    {
       "id": "greenhouse:rocketlab:7822523003",
       "company": "Rocket Lab",
       "title": "Business Analyst Intern - Supply Chain",
       "location": "Auckland, NZ",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822523003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7822525003",
+      "company": "Rocket Lab",
+      "title": "Business Analyst Intern - Supply Chain",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822525003"
     },
     {
       "id": "greenhouse:rocketlab:7993736003",
@@ -790,6 +832,13 @@
       "title": "Combustion Devices Intern Summer 2027",
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986748003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7819722003",
+      "company": "Rocket Lab",
+      "title": "Data Engineering Intern",
+      "location": "Auckland, NZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003"
     },
     {
       "id": "greenhouse:rocketlab:7990045003",
@@ -890,13 +939,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"
     },
     {
-      "id": "greenhouse:rocketlab:7819722003",
-      "company": "Rocket Lab",
-      "title": "Ground Systems Engineering Intern - Instrumentation & Control",
-      "location": "Auckland, NZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003"
-    },
-    {
       "id": "greenhouse:rocketlab:7821138003",
       "company": "Rocket Lab",
       "title": "Ground Systems Mechanical Engineering Intern - Neutron",
@@ -960,13 +1002,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820012003"
     },
     {
-      "id": "greenhouse:rocketlab:7996617003",
-      "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern Spring 2027",
-      "location": "Wallops Island, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996617003"
-    },
-    {
       "id": "greenhouse:rocketlab:7984943003",
       "company": "Rocket Lab",
       "title": "Manufacturing Engineering Intern Spring 2027",
@@ -979,6 +1014,20 @@
       "title": "Manufacturing Engineering Intern Spring 2027",
       "location": "Middle River, MD",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7996617003",
+      "company": "Rocket Lab",
+      "title": "Manufacturing Engineering Intern Spring 2027",
+      "location": "Wallops Island, VA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996617003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7988835003",
+      "company": "Rocket Lab",
+      "title": "Manufacturing Engineering Intern Summer 2027",
+      "location": "Middle River, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003"
     },
     {
       "id": "greenhouse:rocketlab:7984564003",
@@ -995,11 +1044,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996623003"
     },
     {
-      "id": "greenhouse:rocketlab:7988835003",
+      "id": "greenhouse:rocketlab:7986368003",
       "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern Summer 2027",
-      "location": "Middle River, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003"
+      "title": "Mechanical Engineering Intern Spring 2027",
+      "location": "Toronto, CAN",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986368003"
     },
     {
       "id": "greenhouse:rocketlab:7985634003",
@@ -1014,13 +1063,6 @@
       "title": "Mechanical Engineering Intern Spring 2027",
       "location": "Silver Spring, MD",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989995003"
-    },
-    {
-      "id": "greenhouse:rocketlab:7986368003",
-      "company": "Rocket Lab",
-      "title": "Mechanical Engineering Intern Spring 2027",
-      "location": "Toronto, CAN",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986368003"
     },
     {
       "id": "greenhouse:rocketlab:7991769003",
@@ -1149,20 +1191,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003"
     },
     {
-      "id": "greenhouse:rocketlab:7986965003",
-      "company": "Rocket Lab",
-      "title": "Security Analyst Intern Spring 2027",
-      "location": "Middle River, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003"
-    },
-    {
-      "id": "greenhouse:rocketlab:7986872003",
-      "company": "Rocket Lab",
-      "title": "Security Analyst Intern Spring 2027",
-      "location": "Albuquerque, NM",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003"
-    },
-    {
       "id": "greenhouse:rocketlab:7986959003",
       "company": "Rocket Lab",
       "title": "Security Analyst Intern Spring 2027",
@@ -1177,11 +1205,25 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003"
     },
     {
-      "id": "greenhouse:rocketlab:7986961003",
+      "id": "greenhouse:rocketlab:7986965003",
+      "company": "Rocket Lab",
+      "title": "Security Analyst Intern Spring 2027",
+      "location": "Middle River, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7986872003",
+      "company": "Rocket Lab",
+      "title": "Security Analyst Intern Spring 2027",
+      "location": "Albuquerque, NM",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7986874003",
       "company": "Rocket Lab",
       "title": "Security Analyst Intern Summer 2027",
-      "location": "Wallops Island, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003"
+      "location": "Albuquerque, NM",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003"
     },
     {
       "id": "greenhouse:rocketlab:7986956003",
@@ -1191,11 +1233,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003"
     },
     {
-      "id": "greenhouse:rocketlab:7986874003",
+      "id": "greenhouse:rocketlab:7986961003",
       "company": "Rocket Lab",
       "title": "Security Analyst Intern Summer 2027",
-      "location": "Albuquerque, NM",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003"
+      "location": "Wallops Island, VA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003"
     },
     {
       "id": "greenhouse:rocketlab:7986963003",
@@ -1226,18 +1268,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819101003"
     },
     {
-      "id": "greenhouse:rocketlab:7986131003",
-      "company": "Rocket Lab",
-      "title": "Supply Chain Intern Spring 2027",
-      "location": "Silver Spring, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986131003"
-    },
-    {
       "id": "greenhouse:rocketlab:7985032003",
       "company": "Rocket Lab",
       "title": "Supply Chain Intern Spring 2027",
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7990069003",
+      "company": "Rocket Lab",
+      "title": "Supply Chain Intern Spring 2027",
+      "location": "Middle River, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003"
     },
     {
       "id": "greenhouse:rocketlab:7990378003",
@@ -1247,11 +1289,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990378003"
     },
     {
-      "id": "greenhouse:rocketlab:7990069003",
+      "id": "greenhouse:rocketlab:7986131003",
       "company": "Rocket Lab",
       "title": "Supply Chain Intern Spring 2027",
-      "location": "Middle River, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003"
+      "location": "Silver Spring, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986131003"
     },
     {
       "id": "greenhouse:rocketlab:7990063003",
@@ -1275,11 +1317,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987044003"
     },
     {
-      "id": "greenhouse:rocketlab:7987046003",
+      "id": "greenhouse:rocketlab:7990270003",
       "company": "Rocket Lab",
       "title": "Systems Engineering Intern Summer 2027",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003"
+      "location": "Tucson, AZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003"
     },
     {
       "id": "greenhouse:rocketlab:7990272003",
@@ -1289,11 +1331,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003"
     },
     {
-      "id": "greenhouse:rocketlab:7990270003",
+      "id": "greenhouse:rocketlab:7987046003",
       "company": "Rocket Lab",
       "title": "Systems Engineering Intern Summer 2027",
-      "location": "Tucson, AZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003"
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003"
     },
     {
       "id": "greenhouse:rocketlab:7990138003",
