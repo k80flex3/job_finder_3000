@@ -120,18 +120,18 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007"
     },
     {
-      "id": "greenhouse:andurilindustries:5136984007",
-      "company": "Anduril",
-      "title": "2027 Early Career Mechanical Engineer",
-      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5258587007",
       "company": "Anduril",
       "title": "2027 Early Career Mechanical Engineer",
       "location": "Dublin, Dublin, Ireland",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5136984007",
+      "company": "Anduril",
+      "title": "2027 Early Career Mechanical Engineer",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007"
     },
     {
       "id": "greenhouse:andurilindustries:5262324007",
@@ -323,18 +323,18 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007"
     },
     {
-      "id": "greenhouse:andurilindustries:5148079007",
-      "company": "Anduril",
-      "title": "2027 Software Engineer Intern",
-      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5255902007",
       "company": "Anduril",
       "title": "2027 Software Engineer Intern",
       "location": "London, England, United Kingdom",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5148079007",
+      "company": "Anduril",
+      "title": "2027 Software Engineer Intern",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
     },
     {
       "id": "greenhouse:andurilindustries:5255827007",
@@ -356,6 +356,13 @@
       "title": "2027 Technical Program Manager Intern",
       "location": "Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5280611007",
+      "company": "Anduril",
+      "title": "Fall 2027 Manufacturing Engineer Co-op",
+      "location": "Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007"
     },
     {
       "id": "greenhouse:andurilindustries:5174562007",
@@ -911,18 +918,18 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8210138"
     },
     {
-      "id": "greenhouse:waymo:8243556",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
-      "location": "Mountain View, CA, USA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556"
-    },
-    {
       "id": "greenhouse:waymo:8304574",
       "company": "Waymo",
       "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
       "location": "San Francisco, CA, USA",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574"
+    },
+    {
+      "id": "greenhouse:waymo:8243556",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "location": "Mountain View, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556"
     },
     {
       "id": "greenhouse:waymo:8223735",
@@ -1233,6 +1240,13 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8306779"
     },
     {
+      "id": "greenhouse:waymo:8337719",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Research Scientist Intern",
+      "location": "Mountain View, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719"
+    },
+    {
       "id": "greenhouse:waymo:8292367",
       "company": "Waymo",
       "title": "2027 Summer Intern, PhD, Research Scientist, Visual Reasoning",
@@ -1436,11 +1450,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990045003"
     },
     {
-      "id": "greenhouse:rocketlab:7990043003",
+      "id": "greenhouse:rocketlab:7998598003",
       "company": "Rocket Lab",
       "title": "Electrical Engineering Intern Summer 2027",
-      "location": "Toronto, CAN",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003"
+      "location": "Pasadena, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998598003"
     },
     {
       "id": "greenhouse:rocketlab:7990683003",
@@ -1450,11 +1464,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003"
     },
     {
-      "id": "greenhouse:rocketlab:7998598003",
+      "id": "greenhouse:rocketlab:7990043003",
       "company": "Rocket Lab",
       "title": "Electrical Engineering Intern Summer 2027",
-      "location": "Pasadena, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998598003"
+      "location": "Toronto, CAN",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003"
     },
     {
       "id": "greenhouse:rocketlab:8013534003",
@@ -1506,18 +1520,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986794003"
     },
     {
-      "id": "greenhouse:rocketlab:7992752003",
-      "company": "Rocket Lab",
-      "title": "Government Operations Intern Spring 2027",
-      "location": "Washington, DC",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003"
-    },
-    {
       "id": "greenhouse:rocketlab:8001399003",
       "company": "Rocket Lab",
       "title": "Government Operations Intern Spring 2027",
       "location": "Littleton, CO",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7992752003",
+      "company": "Rocket Lab",
+      "title": "Government Operations Intern Spring 2027",
+      "location": "Washington, DC",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003"
     },
     {
       "id": "greenhouse:rocketlab:7992754003",
@@ -1590,13 +1604,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003"
     },
     {
-      "id": "greenhouse:rocketlab:7996617003",
-      "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern Spring 2027",
-      "location": "Wallops Island, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996617003"
-    },
-    {
       "id": "greenhouse:rocketlab:7987020003",
       "company": "Rocket Lab",
       "title": "Manufacturing Engineering Intern Spring 2027",
@@ -1604,11 +1611,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003"
     },
     {
-      "id": "greenhouse:rocketlab:7996623003",
+      "id": "greenhouse:rocketlab:7996617003",
       "company": "Rocket Lab",
-      "title": "Manufacturing Engineering Intern Summer 2027",
+      "title": "Manufacturing Engineering Intern Spring 2027",
       "location": "Wallops Island, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996623003"
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996617003"
     },
     {
       "id": "greenhouse:rocketlab:7984564003",
@@ -1618,18 +1625,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003"
     },
     {
+      "id": "greenhouse:rocketlab:7996623003",
+      "company": "Rocket Lab",
+      "title": "Manufacturing Engineering Intern Summer 2027",
+      "location": "Wallops Island, VA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996623003"
+    },
+    {
       "id": "greenhouse:rocketlab:7988835003",
       "company": "Rocket Lab",
       "title": "Manufacturing Engineering Intern Summer 2027",
       "location": "Middle River, MD",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003"
-    },
-    {
-      "id": "greenhouse:rocketlab:7985634003",
-      "company": "Rocket Lab",
-      "title": "Mechanical Engineering Intern Spring 2027",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985634003"
     },
     {
       "id": "greenhouse:rocketlab:7989995003",
@@ -1639,11 +1646,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989995003"
     },
     {
-      "id": "greenhouse:rocketlab:7991448003",
+      "id": "greenhouse:rocketlab:7985634003",
       "company": "Rocket Lab",
-      "title": "Mechanical Engineering Intern Summer 2027",
+      "title": "Mechanical Engineering Intern Spring 2027",
       "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003"
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985634003"
     },
     {
       "id": "greenhouse:rocketlab:7989904003",
@@ -1651,6 +1658,13 @@
       "title": "Mechanical Engineering Intern Summer 2027",
       "location": "Silver Spring, MD",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7991448003",
+      "company": "Rocket Lab",
+      "title": "Mechanical Engineering Intern Summer 2027",
+      "location": "Long Beach, CA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003"
     },
     {
       "id": "greenhouse:rocketlab:7991769003",
@@ -1737,11 +1751,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996576003"
     },
     {
-      "id": "greenhouse:rocketlab:8013277003",
+      "id": "greenhouse:rocketlab:7986872003",
       "company": "Rocket Lab",
-      "title": "RF Engineering Intern Summer 2027",
-      "location": "Long Beach, CA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8013277003"
+      "title": "Security Analyst Intern Spring 2027",
+      "location": "Albuquerque, NM",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003"
     },
     {
       "id": "greenhouse:rocketlab:7986959003",
@@ -1751,13 +1765,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986959003"
     },
     {
-      "id": "greenhouse:rocketlab:7986965003",
-      "company": "Rocket Lab",
-      "title": "Security Analyst Intern Spring 2027",
-      "location": "Middle River, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003"
-    },
-    {
       "id": "greenhouse:rocketlab:7986954003",
       "company": "Rocket Lab",
       "title": "Security Analyst Intern Spring 2027",
@@ -1765,11 +1772,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003"
     },
     {
-      "id": "greenhouse:rocketlab:7986872003",
+      "id": "greenhouse:rocketlab:7986965003",
       "company": "Rocket Lab",
       "title": "Security Analyst Intern Spring 2027",
-      "location": "Albuquerque, NM",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003"
+      "location": "Middle River, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7986963003",
+      "company": "Rocket Lab",
+      "title": "Security Analyst Intern Summer 2027",
+      "location": "Middle River, MD",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003"
     },
     {
       "id": "greenhouse:rocketlab:7986874003",
@@ -1793,13 +1807,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003"
     },
     {
-      "id": "greenhouse:rocketlab:7986963003",
-      "company": "Rocket Lab",
-      "title": "Security Analyst Intern Summer 2027",
-      "location": "Middle River, MD",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003"
-    },
-    {
       "id": "greenhouse:rocketlab:7819101003",
       "company": "Rocket Lab",
       "title": "Supplier Quality Engineer Intern",
@@ -1821,18 +1828,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003"
     },
     {
-      "id": "greenhouse:rocketlab:7990378003",
-      "company": "Rocket Lab",
-      "title": "Supply Chain Intern Spring 2027",
-      "location": "Tucson, AZ",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990378003"
-    },
-    {
       "id": "greenhouse:rocketlab:7986131003",
       "company": "Rocket Lab",
       "title": "Supply Chain Intern Spring 2027",
       "location": "Silver Spring, MD",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986131003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7990378003",
+      "company": "Rocket Lab",
+      "title": "Supply Chain Intern Spring 2027",
+      "location": "Tucson, AZ",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990378003"
     },
     {
       "id": "greenhouse:rocketlab:7990069003",
@@ -1919,18 +1926,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987042003"
     },
     {
-      "id": "greenhouse:rocketlab:8003533003",
-      "company": "Rocket Lab",
-      "title": "Test Engineering Intern Spring 2027",
-      "location": "Wallops Island, VA",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003"
-    },
-    {
       "id": "greenhouse:rocketlab:7990352003",
       "company": "Rocket Lab",
       "title": "Test Engineering Intern Spring 2027",
       "location": "Stennis Space Center, MS",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990352003"
+    },
+    {
+      "id": "greenhouse:rocketlab:8003533003",
+      "company": "Rocket Lab",
+      "title": "Test Engineering Intern Spring 2027",
+      "location": "Wallops Island, VA",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003"
     },
     {
       "id": "greenhouse:rocketlab:7990350003",
