@@ -134,18 +134,18 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261363007?gh_jid=5261363007"
     },
     {
-      "id": "greenhouse:andurilindustries:5136925007",
-      "company": "Anduril",
-      "title": "2027 Early Career Electrical Engineer",
-      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5272501007",
       "company": "Anduril",
       "title": "2027 Early Career Electrical Engineer",
       "location": "Dublin, Dublin, Ireland",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272501007?gh_jid=5272501007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5136925007",
+      "company": "Anduril",
+      "title": "2027 Early Career Electrical Engineer",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007"
     },
     {
       "id": "greenhouse:andurilindustries:5246141007",
@@ -183,18 +183,18 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007"
     },
     {
-      "id": "greenhouse:andurilindustries:5258587007",
-      "company": "Anduril",
-      "title": "2027 Early Career Mechanical Engineer",
-      "location": "Dublin, Dublin, Ireland",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007"
-    },
-    {
       "id": "greenhouse:andurilindustries:5136984007",
       "company": "Anduril",
       "title": "2027 Early Career Mechanical Engineer",
       "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007"
+    },
+    {
+      "id": "greenhouse:andurilindustries:5258587007",
+      "company": "Anduril",
+      "title": "2027 Early Career Mechanical Engineer",
+      "location": "Dublin, Dublin, Ireland",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5258587007?gh_jid=5258587007"
     },
     {
       "id": "greenhouse:andurilindustries:5262324007",
@@ -1198,6 +1198,48 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899"
     },
     {
+      "id": "greenhouse:lucidmotors:5306854007",
+      "company": "Lucid Motors",
+      "title": "Business Analyst Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306854007?gh_jid=5306854007"
+    },
+    {
+      "id": "greenhouse:lucidmotors:5306601007",
+      "company": "Lucid Motors",
+      "title": "Financial Planning & Analysis Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306601007?gh_jid=5306601007"
+    },
+    {
+      "id": "greenhouse:lucidmotors:5306670007",
+      "company": "Lucid Motors",
+      "title": "Financial Services Operations Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306670007?gh_jid=5306670007"
+    },
+    {
+      "id": "greenhouse:lucidmotors:5306660007",
+      "company": "Lucid Motors",
+      "title": "Fleet Operations Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306660007?gh_jid=5306660007"
+    },
+    {
+      "id": "greenhouse:lucidmotors:5306664007",
+      "company": "Lucid Motors",
+      "title": "HR & Internal Communications Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306664007?gh_jid=5306664007"
+    },
+    {
+      "id": "greenhouse:lucidmotors:5306676007",
+      "company": "Lucid Motors",
+      "title": "Instructional Designer Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306676007?gh_jid=5306676007"
+    },
+    {
       "id": "greenhouse:lucidmotors:5290796007",
       "company": "Lucid Motors",
       "title": "Intern, ADAS Platform Tools, Summer 2027",
@@ -1310,6 +1352,27 @@
       "url": "https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007"
     },
     {
+      "id": "greenhouse:lucidmotors:5306584007",
+      "company": "Lucid Motors",
+      "title": "Logistics Operation Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306584007?gh_jid=5306584007"
+    },
+    {
+      "id": "greenhouse:lucidmotors:5306590007",
+      "company": "Lucid Motors",
+      "title": "Marketing Operations, Retail & Experiential Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306590007?gh_jid=5306590007"
+    },
+    {
+      "id": "greenhouse:lucidmotors:5306687007",
+      "company": "Lucid Motors",
+      "title": "Network Analytics & Reporting Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306687007?gh_jid=5306687007"
+    },
+    {
       "id": "greenhouse:lucidmotors:5290949007",
       "company": "Lucid Motors",
       "title": "Power Electronics Control Engineer Intern, Summer 2027   ",
@@ -1322,6 +1385,20 @@
       "title": "Product Security Engineering Intern, Summer 2027",
       "location": "Newark, CA",
       "url": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007"
+    },
+    {
+      "id": "greenhouse:lucidmotors:5306844007",
+      "company": "Lucid Motors",
+      "title": "Salesforce Engineer Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306844007?gh_jid=5306844007"
+    },
+    {
+      "id": "greenhouse:lucidmotors:5306856007",
+      "company": "Lucid Motors",
+      "title": "Sales Strategy, Planning & Analytics Intern",
+      "location": "Amsterdam, NH",
+      "url": "https://lucidmotors.com/careers/search/5306856007?gh_jid=5306856007"
     },
     {
       "id": "greenhouse:lucidmotors:5264368007",
@@ -1450,18 +1527,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003"
     },
     {
-      "id": "greenhouse:rocketlab:7990043003",
-      "company": "Rocket Lab",
-      "title": "Electrical Engineering Intern Summer 2027",
-      "location": "Toronto, CAN",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003"
-    },
-    {
       "id": "greenhouse:rocketlab:7998598003",
       "company": "Rocket Lab",
       "title": "Electrical Engineering Intern Summer 2027",
       "location": "Pasadena, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998598003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7990043003",
+      "company": "Rocket Lab",
+      "title": "Electrical Engineering Intern Summer 2027",
+      "location": "Toronto, CAN",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003"
     },
     {
       "id": "greenhouse:rocketlab:8013534003",
@@ -1492,18 +1569,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986794003"
     },
     {
-      "id": "greenhouse:rocketlab:8001399003",
-      "company": "Rocket Lab",
-      "title": "Government Operations Intern Spring 2027",
-      "location": "Littleton, CO",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003"
-    },
-    {
       "id": "greenhouse:rocketlab:7992752003",
       "company": "Rocket Lab",
       "title": "Government Operations Intern Spring 2027",
       "location": "Washington, DC",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003"
+    },
+    {
+      "id": "greenhouse:rocketlab:8001399003",
+      "company": "Rocket Lab",
+      "title": "Government Operations Intern Spring 2027",
+      "location": "Littleton, CO",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003"
     },
     {
       "id": "greenhouse:rocketlab:7992754003",
@@ -1527,18 +1604,18 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"
     },
     {
-      "id": "greenhouse:rocketlab:8007204003",
-      "company": "Rocket Lab",
-      "title": "Ground Systems Engineering Intern Spring 2027",
-      "location": "Stennis Space Center, MS",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003"
-    },
-    {
       "id": "greenhouse:rocketlab:8042094003",
       "company": "Rocket Lab",
       "title": "Ground Systems Engineering Intern Spring 2027",
       "location": "Middle River, MD",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003"
+    },
+    {
+      "id": "greenhouse:rocketlab:8007204003",
+      "company": "Rocket Lab",
+      "title": "Ground Systems Engineering Intern Spring 2027",
+      "location": "Stennis Space Center, MS",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003"
     },
     {
       "id": "greenhouse:rocketlab:8042092003",
@@ -1604,6 +1681,13 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996623003"
     },
     {
+      "id": "greenhouse:rocketlab:7991769003",
+      "company": "Rocket Lab",
+      "title": "Mechanical Engineering Intern Summer 2027",
+      "location": "Toronto, CAN",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991769003"
+    },
+    {
       "id": "greenhouse:rocketlab:7989904003",
       "company": "Rocket Lab",
       "title": "Mechanical Engineering Intern Summer 2027",
@@ -1616,13 +1700,6 @@
       "title": "Mechanical Engineering Intern Summer 2027",
       "location": "Long Beach, CA",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003"
-    },
-    {
-      "id": "greenhouse:rocketlab:7991769003",
-      "company": "Rocket Lab",
-      "title": "Mechanical Engineering Intern Summer 2027",
-      "location": "Toronto, CAN",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991769003"
     },
     {
       "id": "greenhouse:rocketlab:7994892003",
@@ -1674,13 +1751,6 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996576003"
     },
     {
-      "id": "greenhouse:rocketlab:7986872003",
-      "company": "Rocket Lab",
-      "title": "Security Analyst Intern Spring 2027",
-      "location": "Albuquerque, NM",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003"
-    },
-    {
       "id": "greenhouse:rocketlab:7986954003",
       "company": "Rocket Lab",
       "title": "Security Analyst Intern Spring 2027",
@@ -1688,11 +1758,11 @@
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003"
     },
     {
-      "id": "greenhouse:rocketlab:7986874003",
+      "id": "greenhouse:rocketlab:7986872003",
       "company": "Rocket Lab",
-      "title": "Security Analyst Intern Summer 2027",
+      "title": "Security Analyst Intern Spring 2027",
       "location": "Albuquerque, NM",
-      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003"
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003"
     },
     {
       "id": "greenhouse:rocketlab:7986963003",
@@ -1700,6 +1770,13 @@
       "title": "Security Analyst Intern Summer 2027",
       "location": "Middle River, MD",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003"
+    },
+    {
+      "id": "greenhouse:rocketlab:7986874003",
+      "company": "Rocket Lab",
+      "title": "Security Analyst Intern Summer 2027",
+      "location": "Albuquerque, NM",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003"
     },
     {
       "id": "greenhouse:rocketlab:7819101003",
